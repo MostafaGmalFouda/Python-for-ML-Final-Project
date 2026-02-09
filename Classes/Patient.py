@@ -1,4 +1,4 @@
-from Person import Person
+from Classes.Person import Person
 class Patient(Person):
     """Class for hospital patients, inheriting from Person.
      :name: patient's name

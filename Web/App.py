@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, redirect, url_for, flash
-from Hospital import Hospital
-from Department import Department
-from Patient import Patient
-from Staff import Staff
+from Classes.Hospital import Hospital
+from Classes.Department import Department
+from Classes.Patient import Patient
+from Classes.Staff import Staff
 
 app = Flask(__name__)
 app.secret_key = "supersecretkey"

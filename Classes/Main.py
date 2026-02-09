@@ -1,8 +1,8 @@
-from Person import Person
-from Staff import Staff
-from Patient import Patient
-from Department import Department
-from Hospital import Hospital
+from Classes.Person import Person
+from Classes.Staff import Staff
+from Classes.Patient import Patient
+from Classes.Department import Department
+from Classes.Hospital import Hospital
 
 
 if __name__ == "__main__":
