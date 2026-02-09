@@ -31,17 +31,17 @@ It demonstrates the use of **Object-Oriented Programming (OOP)** with classes su
 ## Project Structure
 Hospital-Management/
 │
-├─ app.py # Main Flask application
-├─ Hospital.py # Hospital class
-├─ Department.py # Department class
-├─ Patient.py # Patient class
-├─ Staff.py # Staff class
-├─ Person.py
-├─ Main.py # check clasee
-├─ templates/ # HTML templates
-│ ├─ login.html
-│ ├─ dashboard.html
-├─ static/ # Static assets (CSS, images)
-│ ├─ style.css
-│ └─ hospital.jpg
-├─ README.md
+├─ app.py # Main Flask application\n
+├─ Hospital.py # Hospital class\n
+├─ Department.py # Department class\n
+├─ Patient.py # Patient class\n
+├─ Staff.py # Staff class\n
+├─ Person.py\n
+├─ Main.py # check clasee\n
+├─ templates/ # HTML templates\n
+│ ├─ login.html\n
+│ ├─ dashboard.html\n
+├─ static/ # Static assets (CSS, images)\n
+│ ├─ style.css\n
+│ └─ hospital.jpg\n
+├─ README.md\n
