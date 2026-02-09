@@ -1,4 +1,3 @@
-# Python-for-ML-Final Project
 # Hospital Management System 
 
 ## Overview
